@@ -5,6 +5,8 @@ My name is Albet Novendo. <br>A passionate web developer with a strong focus on 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/al_nv4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albet-novendo-a95762234/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AlbetNv) 
 
+[![Portfolio](https://img.shields.io/badge/portfolio-amber?style=for-the-badge)](https://albetnv.vercel.app)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=albetnov&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
